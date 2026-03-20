@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KAPUNUNGAN.aternos.me",
-    "port": 49912,
+    "ip": "KAPUNUNGANSMP.aternos.me",
+    "port": 42841,
     "version": "",
     "try-creative": false
   },
